@@ -5,6 +5,7 @@
 int main() {
     float first_num;
     float second_num;
+    int num_of_acquired_value = 1
     bool accepted_value = false;
     char choice = 'y';
 
@@ -41,5 +42,7 @@ int main() {
             }
        }
     }
+
+    return 0;
 }
 
